@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">, I'm Billy</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=D0F715&background=000000&width=435&lines=Hi%2C+I'm+Billy)](https://git.io/typing-svg)
 <h3 align="center">I enjoy bringing ideas to reality as a Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billystorm01&label=Profile%20views&color=0e75b6&style=flat" alt="billystorm01" /> </p>
