@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Billy</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">, I'm Billy</h1>
 <h3 align="center">I enjoy bringing ideas to reality as a Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=billystorm01&label=Profile%20views&color=0e75b6&style=flat" alt="billystorm01" /> </p>
