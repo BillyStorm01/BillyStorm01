@@ -24,3 +24,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=billystorm01&show_icons=true&locale=en" alt="billystorm01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billystorm01&" alt="billystorm01" /></p>
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_billystorm01/count.svg" />
+</p>
