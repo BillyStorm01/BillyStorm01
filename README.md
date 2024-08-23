@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  Visitor count    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+  Visitor count    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>
 <br>
   <img src="https://profile-counter.glitch.me/_billystorm01/count.svg" /><br>
   <a href=#><img src="contributions.svg"></a>
