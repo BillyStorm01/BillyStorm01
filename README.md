@@ -4,11 +4,16 @@
 
 ## 📈 GitHub Stats
 
-![Billy's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyStorm01&theme=dark&rank_icon=github) 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=BillyStorm01&theme=dark&rank_icon=github" width="500">
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=billystorm01&theme=dark" width="500">
+</p>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=billystorm01&theme=dark)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
 
 
 
