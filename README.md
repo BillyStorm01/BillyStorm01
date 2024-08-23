@@ -2,6 +2,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=800&color=e38c14&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Billy;I'm+a+Full+Stack+Software+Engineer;I+like+to+create+cool+things" alt="Typing SVG" /></a>
 <br><br>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/billystorm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="billystorm" height="30" width="40" /></a>
+</p>
+
 <p align="center">
   <h2 align="center">📈 GitHub Stats <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
 </h2>
