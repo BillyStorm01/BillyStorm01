@@ -13,7 +13,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-billystorm" target="_blank">
+  <a href="https://www.linkedin.com/in/billystorm/" target="_blank">
     <img src="https://github.com/user-attachments/assets/b199ea1f-703c-42c4-83aa-2a156a276857" alt="LinkedIn" height="50" width="50" style="vertical-align: middle; margin-right: 10px;"/>
   </a>
 
