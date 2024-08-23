@@ -71,10 +71,6 @@
 
 <img src="https://emoji.slack-edge.com/T0BFXMWMV/partycat/7f35927eb73ee7fa.gif" width="35" height="35" style="vertical-align: middle;"/>
 
-Part Keanu -<img src="https://emoji.slack-edge.com/T0BFXMWMV/partykeanu/a630b8fd232f6232.gif" width="35" height="35" style="vertical-align: middle;"/>
-<img src="https://emoji.slack-edge.com/T0BFXMWMV/partycat/7f35927eb73ee7fa.gif" width="35" height="35" style="vertical-align: middle;"/>
-  <!-- 
-
   Fun Parrots section
   <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25" />
