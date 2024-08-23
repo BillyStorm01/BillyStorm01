@@ -3,21 +3,47 @@
 <br><br>
 
 
-<p align="center">
-  <h2 align="center"><img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="35" height="35"/>
-Connect with me: 
+<h2 align="center">Connect with me! 
+  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="35" height="35" style="vertical-align: middle;"/>
 </h2>
+
 <p align="center">
-<a href="https://linkedin.com/in/billystorm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="billystorm" height="35" width="35" /></a>
+  <img src="https://github.com/user-attachments/assets/b199ea1f-703c-42c4-83aa-2a156a276857" alt="Custom Image" height="50" width="50" style="vertical-align: middle; margin-right: 10px;"/>
+
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50" style="vertical-align: middle; margin-left: 10px;"/>
+</p>
+
+
+
+<p align="center">
+  <h2 align="center">My Stack 
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="35" height="35"/>
+  </h2>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,python,flask," alt="My Skills"/>
+  </a>
+</p>
+
+<p align="center">
+  <h2 align="center">Other skills 
+        <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>
+  </h2>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,github,git,jest,bash,figma," alt="My Skills"/>
+  </a>
 </p>
 
 
 <p align="center">
   <h2 align="center">📈 GitHub Stats <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" height="40"/>
 </h2>
-
 </p>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=BillyStorm01&theme=dark&rank_icon=github" width="500">
 </p>
@@ -37,15 +63,13 @@ Connect with me:
 
 
 
-
-<!--<div align="">
+<div align="">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
@@ -60,7 +84,6 @@ Connect with me:
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
 
