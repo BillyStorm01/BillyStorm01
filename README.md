@@ -69,7 +69,9 @@
     <a href="#"><img src="contributions.svg" alt="Contributions"/></a>
   </p>
 
-  <!-- Fun Parrots section -->
+  <!-- 
+
+  Fun Parrots section
   <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25" />
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25" />
@@ -92,6 +94,8 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25" />
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25" />
   </div>
-  <!--<img src="https://emoji.slack-edge.com/T0BFXMWMV/partykeanu/a630b8fd232f6232.gif" width="35" height="35" style="vertical-align: middle;"/>
+
+  
+  Part Keanu -<img src="https://emoji.slack-edge.com/T0BFXMWMV/partykeanu/a630b8fd232f6232.gif" width="35" height="35" style="vertical-align: middle;"/>
 
 </div>
