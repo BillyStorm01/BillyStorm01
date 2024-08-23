@@ -3,6 +3,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%">
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyStorm01&show_icons=true&theme=dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillyStorm01&layout=compact&theme=dark" alt="Top Langs" height="195px"/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billystorm01&theme=dark" alt="billystorm01" /></p>
+## 📈 GitHub Stats
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyStorm01&show_icons=true&theme=dark) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=billystorm01&theme=dark) |
+| --- | --- |
+
