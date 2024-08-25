@@ -39,7 +39,7 @@
 
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,jest,bash,figma,postman" alt="Other Skills" />
+      <img src="https://skillicons.dev/icons?i=nodejs,github,git,jest,bash,figma,postman" alt="Other Skills" />
     </a>
   </p>
 
