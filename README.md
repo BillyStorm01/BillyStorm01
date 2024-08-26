@@ -47,7 +47,7 @@
   </h2>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=BillyStorm01&theme=dark&rank_icon=github" width="500" alt="GitHub Stats"/>
+    <!--<img src="https://github-readme-stats.vercel.app/api?username=BillyStorm01&theme=dark&rank_icon=github" width="500" alt="GitHub Stats"/> -->
   </p>
   
   <p>
