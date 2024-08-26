@@ -1,11 +1,9 @@
 <div align="center">
 
   <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=800&color=e38c14&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Billy;I'm+a+Full+Stack+Software+Engineer;I+like+to+create+cool+things" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=300&color=FB8C00&center=true&vCenter=true&width=2000&height=100&lines=%3C+Hi%2C+I'm+Billy+%2F%3E;%3C+I'm+a+Full+Stack+Software+Developer+%2F%3E;%3C+With+a+passion+for+creating+efficient;%26+user-friendly+applications+%2F%3E;%3C+Skilled+in+React%2C+Python%2C++JS+and+more..+;with+a+love+for+problem-solving+%2F%3E;%3C+Eager+to+learn+and+adapt+to+new+technologies+and+challenges+%2F%3E" alt="Typing SVG" /></a>
 
-  <!-- Connect with me section -->
+ 
  <h2 align="center">Connect with me! 
   <!--<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="35" height="35" style="vertical-align: middle;"/> -->
 </h2>
