@@ -63,7 +63,7 @@
   <!-- Visitor Count section -->
   <p>
     Visitor count 
-        <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="35" height="35" />
+         <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="35" height="35" />
     <br>
     <img src="https://profile-counter.glitch.me/_billystorm01/count.svg" alt="Visitor Count" /><br>
     <a href="#"><img src="contributions.svg" alt="Contributions"/></a>
