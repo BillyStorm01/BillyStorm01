@@ -7,7 +7,7 @@
 
   <!-- Connect with me section -->
  <h2 align="center">Connect with me! 
-  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="35" height="35" style="vertical-align: middle;"/>
+  <!--<img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="35" height="35" style="vertical-align: middle;"/> -->
 </h2>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
   <!-- My Stack section -->
   <h2>My Stack 
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="35" height="35" />
+      <!--<img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="35" height="35" /> -->
   </h2>
 
   <p>
@@ -34,7 +34,7 @@
 
   <!-- Other Skills section -->
   <h2>Other Skills 
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>
+      <!--<img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="35" height="35"/>-->
   </h2>
 
   <p>
@@ -69,7 +69,7 @@
     <a href="#"><img src="contributions.svg" alt="Contributions"/></a>
   </p>
 
-<img src="https://emoji.slack-edge.com/T0BFXMWMV/partycat/7f35927eb73ee7fa.gif" width="35" height="35" style="vertical-align: middle;"/>
+  <!--<img src="https://emoji.slack-edge.com/T0BFXMWMV/partycat/7f35927eb73ee7fa.gif" width="35" height="35" style="vertical-align: middle;"/>
 
 <!--
   Fun Parrots section
